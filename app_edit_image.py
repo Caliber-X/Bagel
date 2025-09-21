@@ -706,7 +706,7 @@ if __name__ == "__main__":
     
     DIR_ROOT = "images"
     DIR_INPUT = "input"
-    DIR_OUTPUT = "output_30"
+    DIR_OUTPUT = "output"
 
     DIR_INPUT = Path(DIR_ROOT)/DIR_INPUT
     DIR_OUTPUT = Path(DIR_ROOT)/DIR_OUTPUT
